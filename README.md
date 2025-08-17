@@ -3,6 +3,7 @@
 A modern, responsive e-commerce website built with HTML, CSS, and JavaScript.
 
 ![E-Commerce Website Preview](images/logo3.png)
+[live demo ](https://ecommerce-three-murex.vercel.app/)
 
 ## Features
 
