@@ -100,8 +100,6 @@ Edit the `index.html` file to add or modify products in the product grid.
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
 
-This project is open source and available under the [MIT License](LICENSE).
 
 
